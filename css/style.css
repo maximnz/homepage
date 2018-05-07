@@ -1,0 +1,21 @@
+.main_header {
+  width: 100%;
+  min-height: 200px;
+  background-color: orangered;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ffffff;
+}
+
+.photo {
+  width: 45%;
+  border-radius: 100%;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.main_header .position {
+  font-size: 2rem;
+}
